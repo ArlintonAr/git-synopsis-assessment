@@ -1,7 +1,5 @@
-interface Product{
+interface Products{
     name:string
     price:number
-    size:number
-    code:string
 }
 
